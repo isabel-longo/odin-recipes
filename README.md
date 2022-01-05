@@ -1,0 +1,1 @@
+This is my first web project! Im currently doing the Odin Project curriculum, and for now i'm making the skeleton for this website with html.
